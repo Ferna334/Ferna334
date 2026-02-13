@@ -2,7 +2,7 @@
 
 ## Olá, me chamo Fernanda 👋
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJpbmZ6bmZ6bmZ6bmZ6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/fSpn6lK63m8H6/giphy.gif" alt="Gatinho QA" width="400">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJpbmZ6bmZ6bmZ6bmZ6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/fSpn6lK63m8H6/giphy.gif" alt="Gatinho QA" width="450">
 
 <h3>🔍 Quality Assurance | Software Tester</h3>
 
@@ -14,7 +14,7 @@
 ### 👨‍💻 Sobre Mim
 - 🎯 Atualmente focada em melhorar a qualidade de software através de testes manuais e automatizados.
 - 🚀 Buscando constantemente aprender novas ferramentas de QA.
-- 💬 Pergunte-me sobre: Testes unitários, E2E e por que "na minha máquina funciona" não é uma desculpa válida. 
+- 💬 Pergunte-me sobre: Testes unitários, E2E e por que "na minha máquina funciona" não é uma desculpa válida.
 
 ---
 
