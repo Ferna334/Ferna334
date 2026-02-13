@@ -1,10 +1,12 @@
+<div align="center">
+
 ## Olá, me chamo Fernanda 👋
 
 <img src="http://googleusercontent.com/image_collection/image_retrieval/6980910104888500821_0" alt="Gatinho QA" width="400">
 
-  <h3>🔍 Quality Assurance | Software Tester</h3>
+<h3>🔍 Quality Assurance | Software Tester</h3>
 
-  <p>Apaixonada por encontrar bugs antes que os usuários encontrem!</p>
+<p>Apaixonada por encontrar bugs antes que os usuários encontrem!</p>
 </div>
 
 ---
@@ -12,7 +14,11 @@
 ### 👨‍💻 Sobre Mim
 - 🎯 Atualmente focada em melhorar a qualidade de software através de testes manuais e automatizados.
 - 🚀 Buscando constantemente aprender novas ferramentas de QA.
-- 💬 Pergunte-me sobre: Testes unitários, E2E e por que "na minha máquina funciona" não é uma desculpa válida. Formas de estressar um QA
+- 💬 Pergunte-me sobre: Testes unitários, E2E e por que "na minha máquina funciona" não é uma desculpa válida. 
+
+---
+
+### 🛠️ Minha Stack de QA
 
 **Automação & Web:**
 ![Robot Framework](https://img.shields.io/badge/robot%20framework-%23000000.svg?style=for-the-badge&logo=robotframework&logoColor=white)
@@ -27,12 +33,12 @@
 
 ### 📈 Estatísticas
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[SEU-USUARIO]&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[SEU-USUARIO]&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ferna334&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ferna334&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 ---
 
 ### 📫 Como me encontrar:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/SEU-PERFIL](https://www.linkedin.com/in/fernanda-caroline-2a8748241?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernanda-caroline-2a8748241)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fernandacaroline.carol@gmail.com)
