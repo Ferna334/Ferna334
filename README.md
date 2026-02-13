@@ -2,7 +2,7 @@
 
 ## Olá, me chamo Fernanda 👋
 
-<img src="http://googleusercontent.com/image_collection/image_retrieval/6980910104888500821_0" alt="Gatinho QA" width="400">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJpbmZ6bmZ6bmZ6bmZ6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/fSpn6lK63m8H6/giphy.gif" alt="Gatinho QA" width="400">
 
 <h3>🔍 Quality Assurance | Software Tester</h3>
 
