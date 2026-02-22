@@ -2,8 +2,6 @@
 
 ## Olá, me chamo Fernanda 👋
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHpldms5Ymt3NXdwZnd6N3pueGZ6NXpueGZ6NXpueGZ6NXpueGZ6JnB0PXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/fSpn6lK63m8H6/giphy.gif" alt="QA Testing" width="450">
-
 <h3>🔍 Quality Assurance | Software Tester</h3>
 
 <p>Apaixonada por encontrar bugs antes que os usuários encontrem!</p>
@@ -30,12 +28,6 @@
 **Linguagens & Outros:**
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### 📈 Estatísticas
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ferna334&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ferna334&layout=compact&langs_count=7&theme=dracula"/>
-</p>
 
 ---
 
